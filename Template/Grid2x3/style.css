@@ -1,0 +1,6 @@
+.ImageGridLine img {
+  max-width: 100%; /* Make images responsive by limiting their maximum width to 100% of their container */
+  height: auto; /* Maintain the aspect ratio of the images */
+  display: block; /* Remove extra space below inline images */
+  margin: 0 auto; /* Center the images horizontally */
+}
